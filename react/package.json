@@ -140,7 +140,7 @@
     "replace": "0.3.0",
     "rimraf": "2.6.2",
     "sass-loader": "6.0.6",
-    "showdown": "^1.8.5",
+    "showdown": "^2.1.0",
     "style-loader": "^0.19.1",
     "url-loader": "^0.6.2",
     "webpack": "^3.12.0",
